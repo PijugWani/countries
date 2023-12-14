@@ -3412,24 +3412,6 @@
       "isoCode": "702"
     },
     {
-      "name": "Singapore",
-      "code": "SG",
-      "capital": "Singapore",
-      "region": "AS",
-      "currency": {
-        "code": "SGD",
-        "name": "Singapore dollar",
-        "symbol": "$"
-      },
-      "language": {
-        "code": "en",
-        "name": "English"
-      },
-      "flag": "https://restcountries.eu/data/sgp.svg",
-      "dialling_code": "+65",
-      "isoCode": "702"
-    },
-    {
       "name": "Slovakia",
       "code": "SK",
       "capital": "Bratislava",
